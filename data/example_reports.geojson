@@ -1,0 +1,362 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex01",
+    "type": "Crosswalk",
+    "title": "Faded crosswalk on a busy shopping corner",
+    "where_text": "Mira Mesa Blvd at Camino Ruiz",
+    "details": "Example report: drivers turning right do not see people crossing because the paint has worn away.",
+    "neighborhood": "Mira Mesa",
+    "checklist": "Paint faded|Poor lighting at night",
+    "is_example": true,
+    "created_at": 1759500000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1494,
+     32.9156
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex02",
+    "type": "Sidewalk",
+    "title": "Sidewalk ends on the walk to the high school",
+    "where_text": "Black Mountain Rd near Mira Mesa High",
+    "details": "Example report: students walk in the bike lane for about a block where the sidewalk stops.",
+    "neighborhood": "Mira Mesa",
+    "checklist": "Missing section|Near a school or park",
+    "is_example": true,
+    "created_at": 1759500001000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1416,
+     32.9166
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex03",
+    "type": "Bike lane",
+    "title": "Bike lane disappears at a freeway ramp",
+    "where_text": "Genesee Ave at Nobel Dr",
+    "details": "Example report: the lane ends without warning where cars merge toward I-5.",
+    "neighborhood": "University City",
+    "checklist": "Lane ends suddenly|No buffer from traffic",
+    "is_example": true,
+    "created_at": 1759500002000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.2183,
+     32.8692
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex04",
+    "type": "Pothole",
+    "title": "Cluster of deep potholes",
+    "where_text": "Clairemont Mesa Blvd near Clairemont Dr",
+    "details": "Example report: several potholes in the right lane that bikes and scooters swerve around.",
+    "neighborhood": "Clairemont Mesa East",
+    "checklist": "Deep enough to damage tires|More than one pothole",
+    "is_example": true,
+    "created_at": 1759500003000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.185,
+     32.833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex05",
+    "type": "Flooding",
+    "title": "Intersection floods when it rains",
+    "where_text": "Convoy St at Clairemont Mesa Blvd",
+    "details": "Example report: a clogged storm drain leaves water across the crosswalk after storms.",
+    "neighborhood": "Kearny Mesa",
+    "checklist": "Water pools after rain|Storm drain is clogged|Blocks a crosswalk or sidewalk",
+    "is_example": true,
+    "created_at": 1759500004000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.155,
+     32.832
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex06",
+    "type": "Shade and trees",
+    "title": "Bus stop with no shade",
+    "where_text": "Governor Dr near Regents Rd",
+    "details": "Example report: riders wait in full sun with no shelter or trees on hot afternoons.",
+    "neighborhood": "University City",
+    "checklist": "No shade at a stop or path|No place to sit",
+    "is_example": true,
+    "created_at": 1759500005000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.212,
+     32.854
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex07",
+    "type": "Flooding",
+    "title": "Road floods during heavy rain",
+    "where_text": "Sorrento Valley Rd near the Coaster station",
+    "details": "Example report: the road near the station fills with water and traffic backs up.",
+    "neighborhood": "Torrey Pines",
+    "checklist": "Water pools after rain",
+    "is_example": true,
+    "created_at": 1759500006000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.227,
+     32.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex08",
+    "type": "Pothole",
+    "title": "Cracked pavement on a truck route",
+    "where_text": "Miramar Rd east of Camino Santa Fe",
+    "details": "Example report: heavy truck traffic has broken up the pavement in both directions.",
+    "neighborhood": "Miramar",
+    "checklist": "More than one pothole|Near an intersection",
+    "is_example": true,
+    "created_at": 1759500007000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.155,
+     32.883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex09",
+    "type": "Streetlight",
+    "title": "Dark stretch near a park entrance",
+    "where_text": "Park Village Rd near Black Mountain Rd",
+    "details": "Example report: two streetlights are out on the path people use to reach the park after dark.",
+    "neighborhood": "Rancho Penasquitos",
+    "checklist": "Light is out|Whole stretch is dark|Near a school or park",
+    "is_example": true,
+    "created_at": 1759500008000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.135,
+     32.948
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex10",
+    "type": "Sidewalk",
+    "title": "Missing curb ramp at the trolley station",
+    "where_text": "Executive Dr near the UTC trolley station",
+    "details": "Example report: wheelchair and stroller users have to go into the street to reach the platform.",
+    "neighborhood": "University City",
+    "checklist": "No curb ramp|Hard for wheelchairs or strollers",
+    "is_example": true,
+    "created_at": 1759500009000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.214,
+     32.872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex11",
+    "type": "Pothole",
+    "title": "Potholes all along Imperial Ave",
+    "where_text": "Imperial Ave at 32nd St",
+    "details": "Example report: a run of potholes in the right lane; buses swerve around them.",
+    "neighborhood": "Logan Heights",
+    "checklist": "Deep enough to damage tires|More than one pothole|Has been like this for months",
+    "is_example": true,
+    "created_at": 1759600000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.129,
+     32.7055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex12",
+    "type": "Shade and trees",
+    "title": "No shade at a busy bus stop",
+    "where_text": "University Ave at Fairmount Ave",
+    "details": "Example report: people wait 15 minutes in full sun with nowhere to sit.",
+    "neighborhood": "Fairmont Village",
+    "checklist": "No shade at a stop or path|No place to sit|Near a school or park",
+    "is_example": true,
+    "created_at": 1759601000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1003,
+     32.7489
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex13",
+    "type": "Sidewalk",
+    "title": "Broken sidewalk to the trolley",
+    "where_text": "Beyer Blvd near the San Ysidro trolley",
+    "details": "Example report: the walk to the trolley has lifted slabs and no curb ramp.",
+    "neighborhood": "Border",
+    "checklist": "Cracked or uneven|No curb ramp|Hard for wheelchairs or strollers",
+    "is_example": true,
+    "created_at": 1759602000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.03,
+     32.544
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex14",
+    "type": "Flooding",
+    "title": "Street floods every time it rains",
+    "where_text": "W Point Loma Blvd near Nimitz Blvd",
+    "details": "Example report: water covers the crosswalk for a day after each storm.",
+    "neighborhood": "Loma Portal",
+    "checklist": "Water pools after rain|Blocks a crosswalk or sidewalk",
+    "is_example": true,
+    "created_at": 1759603000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.221,
+     32.7505
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex15",
+    "type": "Bike lane",
+    "title": "Bike lane vanishes mid-block",
+    "where_text": "30th St at Upas St",
+    "details": "Example report: the lane ends without warning and riders merge into traffic.",
+    "neighborhood": "North Park",
+    "checklist": "Lane ends suddenly|No buffer from traffic",
+    "is_example": true,
+    "created_at": 1759604000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.13,
+     32.74
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex16",
+    "type": "Crosswalk",
+    "title": "No signal to cross to the park",
+    "where_text": "Logan Ave at Cesar E Chavez Pkwy",
+    "details": "Example report: families cross four lanes with no signal to reach the park.",
+    "neighborhood": "Barrio Logan",
+    "checklist": "No signal or sign|Long wait to cross|Near a school or park",
+    "is_example": true,
+    "created_at": 1759605000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.1445,
+     32.699
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "report_id": "ex17",
+    "type": "Streetlight",
+    "title": "Dark stretch on Linda Vista Rd",
+    "where_text": "Linda Vista Rd near Ulric St",
+    "details": "Example report: several lights are out on the walk home from the bus.",
+    "neighborhood": "Linda Vista",
+    "checklist": "Light is out|Whole stretch is dark",
+    "is_example": true,
+    "created_at": 1759606000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.168,
+     32.783
+    ]
+   }
+  }
+ ]
+}

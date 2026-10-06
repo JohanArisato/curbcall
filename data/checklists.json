@@ -1,0 +1,62 @@
+{
+ "types": {
+  "Sidewalk": [
+   "Cracked or uneven",
+   "Missing section",
+   "No curb ramp",
+   "Blocked by poles or objects"
+  ],
+  "Crosswalk": [
+   "Paint faded",
+   "No signal or sign",
+   "Long wait to cross",
+   "Poor lighting at night"
+  ],
+  "Pothole": [
+   "Deep enough to damage tires",
+   "In a bike lane",
+   "More than one pothole",
+   "Near an intersection"
+  ],
+  "Streetlight": [
+   "Light is out",
+   "Light flickers",
+   "Whole stretch is dark"
+  ],
+  "Flooding": [
+   "Water pools after rain",
+   "Storm drain is clogged",
+   "Blocks a crosswalk or sidewalk"
+  ],
+  "Bike lane": [
+   "Lane ends suddenly",
+   "Markings faded",
+   "Blocked by parked cars",
+   "No buffer from traffic"
+  ],
+  "Shade and trees": [
+   "No shade at a stop or path",
+   "Dead or missing trees",
+   "No place to sit"
+  ],
+  "Other": [
+   "Unsafe",
+   "Hard to get around",
+   "Keeps coming back"
+  ]
+ },
+ "common": [
+  "Near a school or park",
+  "Hard for wheelchairs or strollers",
+  "Has been like this for months"
+ ],
+ "vote_reasons": [
+  "Safety",
+  "Accessibility",
+  "Kids and schools",
+  "Daily commute",
+  "Flooding risk",
+  "Heat and shade",
+  "Has gone on too long"
+ ]
+}
