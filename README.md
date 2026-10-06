@@ -2,7 +2,7 @@
 
 **Snap it. Vote it. Get it fixed.** A prototype where San Diego residents photograph a broken sidewalk, pothole, flooded corner or dark street, tick a short checklist, and swipe to vote on what each part of the city should fix first.
 
-**Johan (Jhoven) Fernandez** · Product lead: concept, feature design, user flow and research framing · Prototype, not yet tested with residents
+**Jhoven Fernandez** · Product lead: concept, feature design, user flow and research framing · Prototype, not yet tested with residents
 
 ## Why
 
