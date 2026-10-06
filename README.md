@@ -1,5 +1,7 @@
 # CurbCall
 
+> 🌐 [Try the app](https://johanarisato.github.io/geoai-for-cities/explore/curbcall.html) · [Project page on GeoAI for Cities](https://johanarisato.github.io/geoai-for-cities/) · [Portfolio](https://johanarisato.github.io/Johan.github.io/)
+
 **Snap it. Vote it. Get it fixed.** A prototype where San Diego residents photograph a broken sidewalk, pothole, flooded corner or dark street, tick a short checklist, and swipe to vote on what each part of the city should fix first.
 
 **Johan Fernandez** · Product lead: concept, feature design, user flow and research framing · Prototype, not yet tested with residents
