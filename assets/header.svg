@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="1200" height="340" rx="16" fill="#0a0f1a"/>
+<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1b2a3d"/></pattern></defs>
+<rect width="1200" height="340" rx="16" fill="url(#g)"/>
+<text x="48" y="60" fill="#3fd0e0" font-size="16" letter-spacing="3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">// CIVIC TECH PROTOTYPE · SAN DIEGO</text>
+<text x="46" y="112" fill="#e6edf3" font-size="42" font-weight="700">CurbCall</text>
+<text x="48" y="166" fill="#e6edf3" font-size="21" opacity="0.88">Snap it. Vote it. Get it fixed.</text>
+<text x="48" y="195" fill="#e6edf3" font-size="21" opacity="0.88">If residents vote on what to fix first,</text>
+<text x="48" y="224" fill="#e6edf3" font-size="21" opacity="0.88">whose problems get heard?</text>
+<rect x="48" y="282" width="288" height="30" rx="15" fill="none" stroke="#e8534a" stroke-width="1.8"/>
+<text x="192.0" y="303" fill="#e8534a" font-size="15" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">PROTOTYPE · NOT YET TESTED</text>
+<line x1="840" y1="170" x2="1150" y2="170" stroke="#1b2a3d" stroke-width="10" stroke-linecap="round"/>
+<line x1="840.0" y1="170" x2="943.3333333333334" y2="170" stroke="#e8534a" stroke-width="10" stroke-linecap="round"/>
+<line x1="943.3333333333334" y1="170" x2="1046.6666666666667" y2="170" stroke="#f2c45a" stroke-width="10" stroke-linecap="round"/>
+<line x1="1046.6666666666667" y1="170" x2="1150.0" y2="170" stroke="#3fb6b0" stroke-width="10" stroke-linecap="round"/>
+<circle r="7" fill="#e6edf3" stroke="#3fd0e0" stroke-width="3"><animateMotion dur="4s" repeatCount="indefinite" path="M840,170 H1150"/></circle>
+<circle cx="840.0" cy="170" r="15" fill="#0a0f1a" stroke="#e8534a" stroke-width="6"/>
+<text x="840.0" y="136" fill="#e6edf3" font-size="19" font-weight="700" text-anchor="middle">Snap</text>
+<circle cx="943.3333333333334" cy="170" r="15" fill="#0a0f1a" stroke="#f2c45a" stroke-width="6"/>
+<text x="943.3333333333334" y="220" fill="#e6edf3" font-size="19" font-weight="700" text-anchor="middle">Vote</text>
+<circle cx="1046.6666666666667" cy="170" r="15" fill="#0a0f1a" stroke="#3fb6b0" stroke-width="6"/>
+<text x="1046.6666666666667" y="136" fill="#e6edf3" font-size="19" font-weight="700" text-anchor="middle">Rank</text>
+<circle cx="1150.0" cy="170" r="15" fill="#0a0f1a" stroke="#3fb6b0" stroke-width="6"/>
+<text x="1150.0" y="220" fill="#e6edf3" font-size="19" font-weight="700" text-anchor="middle">Fix</text>
+</svg>

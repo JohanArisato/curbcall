@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/header.svg" width="100%" alt="CurbCall civic tech prototype: snap, vote, rank, fix. Not yet tested with residents."></p>
+
 # CurbCall
 
 > 🌐 [Try the app](https://johanarisato.github.io/geoai-for-cities/explore/curbcall.html) · [Project page on GeoAI for Cities](https://johanarisato.github.io/geoai-for-cities/) · [Portfolio](https://johanarisato.github.io/Johan.github.io/)
