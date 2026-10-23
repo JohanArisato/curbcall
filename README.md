@@ -2,7 +2,7 @@
 
 # CurbCall
 
-> 🌐 [Try the app](https://johanarisato.github.io/geoai-for-cities/explore/curbcall.html) · [Project page on GeoAI for Cities](https://johanarisato.github.io/geoai-for-cities/) · [Portfolio](https://johanarisato.github.io/Johan.github.io/)
+> 🌐 [Try the app](https://jhovenf98.github.io/geoai-for-cities/explore/curbcall.html) · [Project page on GeoAI for Cities](https://jhovenf98.github.io/geoai-for-cities/) · [Portfolio](https://jhovenf98.github.io/Johan.github.io/)
 
 **Snap it. Vote it. Get it fixed.** A prototype where San Diego residents photograph a broken sidewalk, pothole, flooded corner or dark street, tick a short checklist, and swipe to vote on what each part of the city should fix first.
 
@@ -31,7 +31,7 @@ San Diego's reporting app, Get It Done, works like a complaint inbox: one report
 | `db/sqlite_schema.sql`, `db/curbcall.sqlite` | The same model in SQLite; no server needed |
 | `scripts/build_db.py` | Rebuilds `db/curbcall.sqlite` and `db/seed.sql` |
 
-Neighborhoods and areas come from the shared **[geoai-cities-db](https://github.com/JohanArisato/geoai-cities-db)** database, so CurbCall reports can be joined with my other projects' data, for example housing sites the city counts on for new homes.
+Neighborhoods and areas come from the shared **[geoai-cities-db](https://github.com/jhovenf98/geoai-cities-db)** database, so CurbCall reports can be joined with my other projects' data, for example housing sites the city counts on for new homes.
 
 ## Quick start
 
@@ -73,4 +73,4 @@ Tested on PostgreSQL 16 + PostGIS 3.
 
 The app, database and repository were built with an AI assistant (Claude, Anthropic) from my product direction across several design rounds. The 17 reports are labeled examples.
 
-Part of **[GeoAI for Cities](https://github.com/JohanArisato/geoai-for-cities)**.
+Part of **[GeoAI for Cities](https://github.com/jhovenf98/geoai-for-cities)**.
